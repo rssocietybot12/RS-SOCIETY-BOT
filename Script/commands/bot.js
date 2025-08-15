@@ -87,11 +87,11 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("️- ওয়ালাইকুমুস-সালাম-!!🖤", threadID);
    };
 
-   if ((event.body.toLowerCase() == "sala ami tor boss raju") || (event.body.toLowerCase() == "sala ami ullas") || (event.body.toLowerCase() == "cup sala ami ullash") || (event.body.toLowerCase() == "madari")) {
+   if ((event.body.toLowerCase() == "sala ami tor boss raju") || (event.body.toLowerCase() == "sala ami Raju") || (event.body.toLowerCase() == "cup sala ami ullash") || (event.body.toLowerCase() == "madari")) {
      return api.sendMessage("সরি বস মাফ করে দেন আর এমন ভুল হবে না🥺🙏", threadID);
    };
 
-   if ((event.body.toLowerCase() == "@Ahmed'z Akhi") || (event.body.toLowerCase() == "@Ahmed'z Akhi ")) {
+   if ((event.body.toLowerCase() == "@Ahmed'z Akhi") || (event.body.toLowerCase() == "@Ahmed'z Akhi")) {
      return api.sendMessage("খবরদার কেউ এই আইড়ি মেনশন দিবানা এটা আমার বস রাজুর এর বউ এর আইড়ি😠🥰⛏️", threadID);
    };
 
