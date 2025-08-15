@@ -3,7 +3,7 @@ module.exports.config = {
   name: "Obot",
   version: "1.0.1",
   hasPermssion: 0,
-  credits: "RS BOT",
+  credits: "👑𝐑 𝐒 𝐄𝐃𝐈𝐓𝐎𝐑 𝐒𝐎𝐂𝐈𝐄𝐓𝐘👑",
   description: "goibot",
   commandCategory: "Noprefix",
   usages: "noprefix",
@@ -56,7 +56,7 @@ if ((event.body.toLowerCase() == "😘") || (event.body.toLowerCase() == "😽")
      return api.sendMessage("~ তোমার বাল উঠে নাই নাকি তোমার?? 🤖", threadID);
    };
 
-  if ((event.body.toLowerCase() == "Raju vai") || (event.body.toLowerCase() == "Raju vai") || (event.body.toLowerCase() == "@raju vai") || (event.body.toLowerCase() == "রাজু")) {
+  if ((event.body.toLowerCase() == "Raju vai") || (event.body.toLowerCase() == "Raju vai") || (event.body.toLowerCase() == "@Raju vai") || (event.body.toLowerCase() == "রাজু")) {
      return api.sendMessage("উনি এখন কাজে বিজি আছে কি বলবেন আমাকে বলতে পারেন..!😘",threadID);
 
        
