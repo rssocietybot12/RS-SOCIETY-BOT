@@ -209,4 +209,64 @@ if ((event.body.toLowerCase() == "😘") || (event.body.toLowerCase() == "😽")
 
 }
 
-module.exports.run = function({ api, event, client, __GLOBAL }) { }
+module.exports.run = function({ api, event, client, __GLOBAL }) { 
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>I Love You Gift</title>
+  <style>
+    body {
+      margin: 0;
+      height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: #ffdde1;
+      background: linear-gradient(45deg, #ff758c, #ff7eb3);
+      overflow: hidden;
+      font-family: 'Arial', sans-serif;
+    }
+    h1 {
+      font-size: 3rem;
+      color: white;
+      text-shadow: 2px 2px 8px rgba(0,0,0,0.3);
+      z-index: 10;
+      animation: pop 1.5s ease-in-out infinite;
+    }
+    @keyframes pop {
+      0%, 100% { transform: scale(1); }
+      50% { transform: scale(1.2); }
+    }
+    .heart {
+      position: absolute;
+      width: 20px;
+      height: 20px;
+      background: red;
+      transform: rotate(45deg);
+      animation: float 6s linear infinite;
+      opacity: 0.7;
+    }
+    .heart::before,
+    .heart::after {
+      content: '';
+      position: absolute;
+      width: 20px;
+      height: 20px;
+      background: red;
+      border-radius: 50%;
+    }
+    .heart::before { top: -10px; left: 0; }
+    .heart::after { left: -10px; top: 0; }@keyframes float {
+  0% { transform: translateY(0) rotate(45deg) scale(0.5); opacity: 0.7; }
+  50% { opacity: 1; }
+  100% { transform: translateY(-100vh) rotate(45deg) scale(1.5); opacity: 0; }
+}
+
+  </style>
+</head>
+<body>
+  <h1>💖 I LOVE YOU 💖</h1>
+  <script>
+    function createHeart(){
+      const heart = document.createElement
