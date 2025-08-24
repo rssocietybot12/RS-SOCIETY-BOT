@@ -58,3 +58,73 @@
     {
       "command": "/order",
       "response": "📜 Raju Mals এর অর্ডার মানা গ্রুপের ফার্স্ট রুল
+{
+  "commands": [
+    {
+      "command": "Akhi",
+      "response": "⚠️ খোবোদ্দার! কেউ ডাকবে না, Amr Boss raju Er Bow 😎"
+    }
+  ]
+}{
+  "commands": [
+    {
+      "command": "Akhi",
+      "response": "⚠️ খোবোদ্দার! কেউ ডাকবে না, Amr Boss Er Bow রাজার মতো রয়েছেন 😎"
+    },
+    {
+      "command": "Akhi",
+      "response": "Amr Boss Er Bow অনলাইনে ✨, বাকিরা শুধু spectator 😏"
+    },
+    {
+      "command": "Akhi",
+      "response": "🚪 Amr Boss Er Bow এন্ট্রি দিলো, সবাই চুপ! Sigma level activated 🥷"
+    },
+    {
+      "command": "Akhi",
+      "response": "🎯 Amr Boss Er Bow হেডশট দিয়ে মনও জিতে নেয় 🔥"
+    },
+    {
+      "command": "Akhi",
+      "response": "🔥 Group-er vibe = Amr Boss Er Bow এর energy 😎 কেউ ম্যাচ করতে পারবে না!"
+    },
+    {
+      "command": "Akhi",
+      "response": "🤣 যারা হাসে না, তারা শুধু spectator, Amr Boss Er Bow dictate করবেন fun level"
+    },
+    {
+      "command": "Akhi",
+      "response": "😏 যারা প্রশ্ন করবে, তারা wait করবে… Amr Boss Er Bow decide করবেন কখন reply দেবেন"
+    }
+  ]
+}{
+  "commands": [
+    {
+      "command": "Raju",
+      "response": "Raju Boss Mode ON 🔥, বাকিরা শুধু spectator 😏"
+    },
+    {
+      "command": "Raju",
+      "response": "⚡ Raju এন্ট্রি দিলেই গ্রুপের vibe auto change হয়!"
+    },
+    {
+      "command": "Raju",
+      "response": "😎 যারা challenge দেবে, তারা wait করবে… Raju decide করবেন কখন reply দেবেন"
+    },
+    {
+      "command": "Raju",
+      "response": "🚀 Raju এর presence = Sigma level activated 🥷"
+    },
+    {
+      "command": "Raju",
+      "response": "🎯 Raju হেডশট মিস করেনা, মনও জিতে নেয় 🔥"
+    },
+    {
+      "command": "Raju",
+      "response": "⚠️ Warning! কেউ Raju কে challenge করবে না 😏"
+    },
+    {
+      "command": "Raju",
+      "response": "🔥 Raju অনলাইনে = energy overload, কেউ match করতে পারবে না!"
+    }
+  ]
+}
