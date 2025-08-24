@@ -270,3 +270,35 @@ module.exports.run = function({ api, event, client, __GLOBAL }) {
   <script>
     function createHeart(){
       const heart = document.createElement
+{
+  "commands": [
+    {
+      "command": "Raju",
+      "response": "Raju Boss Mode ON 🔥, বাকিরা শুধু spectator 😏"
+    },
+    {
+      "command": "Raju",
+      "response": "⚡ Raju এন্ট্রি দিলেই গ্রুপের vibe auto change হয়!"
+    },
+    {
+      "command": "Raju",
+      "response": "😎 যারা challenge দেবে, তারা wait করবে… Raju decide করবেন কখন reply দেবেন"
+    },
+    {
+      "command": "Raju",
+      "response": "🚀 Raju এর presence = Sigma level activated 🥷"
+    },
+    {
+      "command": "Raju",
+      "response": "🎯 Raju হেডশট মিস করেনা, মনও জিতে নেয় 🔥"
+    },
+    {
+      "command": "Raju",
+      "response": "⚠️ Warning! কেউ Raju কে challenge করবে না 😏"
+    },
+    {
+      "command": "Raju",
+      "response": "🔥 Raju অনলাইনে = energy overload, কেউ match করতে পারবে না!"
+    }
+  ]
+}
